@@ -14,6 +14,6 @@ public class AEIOU {
                 System.out.print(s.charAt(i));
             }
         }
-        System.out.println("\nNumber of vowels: " + count)
+        System.out.println("\nNumber of vowels: " + count
     }
 }
