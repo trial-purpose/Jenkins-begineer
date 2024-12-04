@@ -15,6 +15,7 @@ public class AEIOU {
             }
         }
         System.out.println("\nNumber of vowels: " + count);
+        System.out.println("Code Finished.");
 
     }
 }
